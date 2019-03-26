@@ -1,7 +1,0 @@
-package com.revature.transport;
-
-public class ChairLift {
-	private double lengthInMeters;
-	private int gondolaCount;
-	private int speed;
-}
