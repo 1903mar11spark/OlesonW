@@ -1,0 +1,10 @@
+package com.revature.transport;
+
+public class Kayak extends Vehicle {
+
+	@Override
+	public void move() {
+		System.out.println("kayak is moving");
+	}
+
+}

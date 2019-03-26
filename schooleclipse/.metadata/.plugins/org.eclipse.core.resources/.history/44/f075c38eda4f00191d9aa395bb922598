@@ -1,0 +1,11 @@
+package com.revature.transport;
+
+public class ChairLift extends Vehicle{
+	private double lengthInMeters;
+	private int gondolaCount;
+	@Override
+	public void move() {
+		// TODO Auto-generated method stub
+		
+	}
+}

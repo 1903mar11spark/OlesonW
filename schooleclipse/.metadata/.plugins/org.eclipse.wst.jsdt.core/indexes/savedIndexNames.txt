@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/bloodtypeocean/code/revature/revgitrepos/OlesonW/schooleclipse/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3878258795.index
+3927879410.index
+2961976114.index
+3694628003.index
+4162141982.index

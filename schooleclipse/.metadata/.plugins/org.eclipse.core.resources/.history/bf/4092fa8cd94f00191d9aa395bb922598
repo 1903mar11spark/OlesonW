@@ -1,0 +1,14 @@
+package com.revature.transport;
+
+public class Car extends Vehicle{
+	
+	private int yearMade;
+	private string make;
+	private string model;
+
+	@Override
+	public void move() {
+		System.out.println("Car is driving");
+	}
+
+}
