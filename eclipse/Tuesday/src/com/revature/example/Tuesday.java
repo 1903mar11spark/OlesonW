@@ -35,9 +35,7 @@ public class Tuesday {
 				//cast exception.  this is an unchecked exception
 				((Steerable)v).turnLeft();
 			}
-		}
-	
-		
+		}		
 	}
 	
 	static void funWithWrapperClasses() {
@@ -49,7 +47,7 @@ public class Tuesday {
 //		float f = 9f;
 //		double d = 10;
 		
-		Integer j = i; //autoboxing
+		Integer k = i; //autoboxing
 		b = new Byte((byte)9);  //narrowing conv.  
 		//downcasting to convert byte to an int 9. 
 		

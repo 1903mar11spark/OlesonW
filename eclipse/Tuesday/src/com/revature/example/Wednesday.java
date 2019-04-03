@@ -6,7 +6,7 @@ import java.util.*;
 public class Wednesday {
 	
 	public static void main(String[] args) {
-//		funWithEqualsAndHashcode();
+		funWithEqualsAndHashcode();
 		
 	
 		ArrayList<Kayak> ar1 = new ArrayList<>();
@@ -67,10 +67,10 @@ public class Wednesday {
 			System.out.println("k1 and k2 are not same");
 		}
 		
-		if(k1.equals(k2)) {
-			System.out.println("k1 and k2 same .equals");
+		if(k2.equals(k3)) {
+			System.out.println("k2 and k3 same .equals");
 		}else {
-			System.out.println("k1 and k2 not same .equals");
+			System.out.println("k2 and k3 not same .equals");
 		}
 		
 		System.out.println("k1 hashcode value: "+k1.hashCode());
